@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+**I'am Axstr0n**
+
+* 👨‍🎓 Student
+* 💻 Learning programing
+* 🚴 Cyclist
+* 🇸🇮 From Slovenia
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axstr0n&layout=compact&theme=tokyonight)
+
+
+
 <!--
 **Axstr0n/Axstr0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
