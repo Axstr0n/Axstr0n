@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'am Axstr0n**
+**I am Axstr0n**
 
 * 👨‍🎓 Student
 * 💻 Learning programing
