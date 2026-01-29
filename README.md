@@ -2,7 +2,6 @@
 
 **I am Axstr0n**
 
-* 👨‍🎓 Student
 * 💻 Learning programing
 * 🚴 Cyclist
 * 🇸🇮 From Slovenia
